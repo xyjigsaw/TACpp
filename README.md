@@ -1,21 +1,12 @@
 # C++ 程序设计学习指导【不断更新】
 
-[2020-11-16-C++课程小结(b站视频)](https://www.bilibili.com/video/BV1mt4y1a71t/)
 
 ## Tutorials
 
  * [C++编程、问题与细节【不断更新】](https://github.com/OneForward/TACpp/blob/master/tutorials/Cpp.md)
  
-  * [C++流控制库iomanip与C风格printf的对比](https://github.com/OneForward/TACpp/blob/master/tutorials/CppFormat.md)
+* [C++流控制库iomanip与C风格printf的对比](https://github.com/OneForward/TACpp/blob/master/tutorials/CppFormat.md)
 
-
-## HomeWork
-
-* [作业答案](https://github.com/OneForward/TACpp/blob/master/tutorials/codes/README.md)
-
- * [Qt的安装与简单使用](https://github.com/OneForward/TACpp/blob/master/tutorials/qt-install.md)
-
- * [Qt实践-2048游戏](https://github.com/OneForward/TACpp/blob/master/tutorials/qt-2048-v1.md)
 
 
 ## Misc
